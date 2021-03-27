@@ -1,0 +1,4 @@
+abc		179
+xyz		322
+ABC		39
+XYZ		21
